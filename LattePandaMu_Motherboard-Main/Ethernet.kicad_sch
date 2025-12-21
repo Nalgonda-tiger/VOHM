@@ -1,0 +1,85 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "997ee057-105c-4bcd-a556-c04154a16b71")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "PCIE_RX_1+"
+		(shape output)
+		(at 135.89 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "26c8290f-7217-4f71-bd6b-79f2267dc8e2")
+	)
+	(hierarchical_label "REFCLK4+"
+		(shape input)
+		(at 135.89 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "39426df8-b6c4-4b08-8168-0dfcb5b6d6fe")
+	)
+	(hierarchical_label "PLTRST"
+		(shape input)
+		(at 135.89 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3ade336e-c1ed-474e-8493-be0c200106a6")
+	)
+	(hierarchical_label "PCIE_TX_1-"
+		(shape input)
+		(at 135.89 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "599f21ff-47d3-46b6-ba0e-2cc0fdc96324")
+	)
+	(hierarchical_label "REFCLK4-"
+		(shape input)
+		(at 135.89 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "615c796e-3bca-4cc4-b2c4-0cbbca32404f")
+	)
+	(hierarchical_label "PCIE_RX_1-"
+		(shape output)
+		(at 135.89 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6dd672a5-c455-4b05-bcdc-7ef766307a84")
+	)
+	(hierarchical_label "PCIE_TX_1+"
+		(shape input)
+		(at 135.89 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "95dc7ac7-09c0-4fa0-8931-ad851aa191d3")
+	)
+)

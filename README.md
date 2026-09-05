@@ -1,4 +1,4 @@
-<img width="8160" height="4592" alt="20250728_182313" src="https://github.com/user-attachments/assets/24275b70-a4a3-45c7-96e2-cfbb6decba7c" /># V//OHM
+# V//OHM
 
 A fully custom laptop designed and built from scratch around the **LattePanda Mu compute module**. (YOUTUBE VIDEO COMING SOON!)
 
@@ -88,7 +88,7 @@ The laptop uses a **14-inch AUO B140QAN02.3** LCD with:
 * 4-lane eDP
 * 16:10 aspect ratio
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-04 at 10 57 18 PM" src="https://github.com/user-attachments/assets/1e689d5c-277c-45b0-8f73-5a922259d878" />
+<img width="8160" height="4592" alt="20250728_182313" src="https://github.com/user-attachments/assets/24275b70-a4a3-45c7-96e2-cfbb6decba7c" />
 
 The panel connects directly to the compute module through an eDP interface.
 
